@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  margin-top: 30px;
+}
+h1 {
+  text-align: center;
+  color: #28a745;
+}
+.form-control {
+  border-color: #28a745;
+}
+.btn-primary {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+.card {
+  background-color: #d4edda;
+}
+.status-dropdown {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
